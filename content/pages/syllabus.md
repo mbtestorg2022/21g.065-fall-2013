@@ -37,15 +37,84 @@ Assignments and Grading
 
 Assignments will be distributed at least 2 weeks prior to due date
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Microthemes | 15 |
-| Essay 1 | 15 |
-| Essay 2 | 15 |
-| Essay 2 Revision | 15 |
-| Essay 3: Final Paper | 20 |
-| Weekly class participation | 10 |
-| Individual presentations | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Microthemes
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2 Revision
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3: Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
@@ -58,12 +127,78 @@ Form & Content in Storytelling: Live Action Film, Anime, Rakugo
 
 How do different forms of media relate to the stories being told, in other words, how can understand the links between form and content? What can an understanding of "Japanese aesthetics" provide? For interpretation, should we look "into" the text or "out" to society for understanding? How can we use ideas of "cultural patterns" and "social context" as a means to better understand media? How does live verbal performance compare with the written word and filmic visuals?
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Paradoxes of Perspective: _Rashomon in Prose and Film_ | Film: _Rashomon_ (Dir. Akira Kurosawa) |
-| 2 | Film Studies: Collaborative Creativity, Transmedia, and the Social | Film: _Summer Wars_ (Dir. Mamoru Hosoda) |
-| 3 | Rakugo: The Art of Storytelling | Special Performance: Rakugo in English by Sunshine Katsura |
-| 4 | Discuss Readings and Films |  {{< br >}}{{< br >}} Film: _Go_ (Dir. Isao Yukisada) {{< br >}}{{< br >}} Due: Essay 1 {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Paradoxes of Perspective: _Rashomon in Prose and Film_
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Rashomon_ (Dir. Akira Kurosawa)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Film Studies: Collaborative Creativity, Transmedia, and the Social
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Summer Wars_ (Dir. Mamoru Hosoda)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Rakugo: The Art of Storytelling
+{{< tdclose >}}
+{{< tdopen >}}
+Special Performance: Rakugo in English by Sunshine Katsura
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Readings and Films
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: _Go_ (Dir. Isao Yukisada)
+
+Due: Essay 1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Part II: Weeks 5–8
 
@@ -71,21 +206,178 @@ Social Pressures and Social Rewards — Modern Day
 
 Japan is renowned for its conformist social pressure: "The nail that sticks up gets hammered down." Why, then, is there such emphasis in popular culture for the renegade who stands out, doesn't listen or chooses her or his own path? What is "social pressure" and how does it work? What are the good sides of relationships? This section of the course examines varieties of social pressure and rewards. How are they portrayed? How do they relate to our own experiences? What can we learn from these portrayals and our interpretations of them?
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 5 | Small Group Projects |  {{< br >}}{{< br >}} Museum Visit to Boston {{< br >}}{{< br >}} Museum of Fine Arts {{< br >}}{{< br >}}  |
-| 6 | Small Group Projects and Film Viewing | Film: _Kamikaze Girls_ (Dir. Tetsuya Nakashima) |
-| 7 | _Out_ | Film: _The Kirishima Thing_ |
-| 8 | Discuss Readings and Films |  {{< br >}}{{< br >}} Film: _Ghost Dog: The Way of the Samurai_ {{< br >}}{{< br >}} Due: Essay 2 {{< br >}}{{< br >}} Special Event: Nathaniel Spith Lecture _Doubling Down on the Negative: Anti-Anti Nukes, the Anti-Anti Foreign, and Rightist Positivity in Post-3.11 Japan_ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Small Group Projects
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Museum Visit to Boston
+
+Museum of Fine Arts
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Small Group Projects and Film Viewing
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Kamikaze Girls_ (Dir. Tetsuya Nakashima)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Out_
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Kirishima Thing_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Readings and Films
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: _Ghost Dog: The Way of the Samurai_
+
+Due: Essay 2
+
+Special Event: Nathaniel Spith Lecture _Doubling Down on the Negative: Anti-Anti Nukes, the Anti-Anti Foreign, and Rightist Positivity in Post-3.11 Japan_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Part III: Weeks 9–11
 
 Social Pressures and Social Rewards — Other Examples
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 9 | Discuss Readings and Films | Film: _Double Suicide_ (Dir. Masahiro Shinoda) |
-| 10 | Discuss Readings and Films |  {{< br >}}{{< br >}} Film: _The Face of Another_ (Dir. Teshigahara) {{< br >}}{{< br >}} Due: Essay 2 Revision {{< br >}}{{< br >}}  |
-| 11 | Discuss Readings and Films |  {{< br >}}{{< br >}} Special Event: Lecture _Tokyo: City of Screens_ {{< br >}}{{< br >}} Meet with Professor Condry to discuss Essay 2 revisions {{< br >}}{{< br >}}  |
-| 12 | Oral Presentations | &nbsp; |
-| 13 | Oral Presentations | Due: Paper 3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Readings and Films
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Double Suicide_ (Dir. Masahiro Shinoda)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Readings and Films
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: _The Face of Another_ (Dir. Teshigahara)
+
+Due: Essay 2 Revision
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Readings and Films
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Special Event: Lecture _Tokyo: City of Screens_
+
+Meet with Professor Condry to discuss Essay 2 revisions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Paper 3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

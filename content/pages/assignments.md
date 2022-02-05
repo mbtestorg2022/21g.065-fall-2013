@@ -4,13 +4,66 @@ title: Assignments
 uid: ce425cbf-a676-40aa-dcdd-d2e42864501a
 ---
 
-| ACTIVITIES | DUES |
-| --- | --- |
-| Microthemes | Most classes |
-| Essay 1 | Week 4 |
-| Essay 2 | Week 8 |
-| Essay 2 Revision | Week 10 |
-| Essay 3 | Week 12 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+DUES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Microthemes
+{{< tdclose >}}
+{{< tdopen >}}
+Most classes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+Week 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+Week 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2 Revision
+{{< tdclose >}}
+{{< tdopen >}}
+Week 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3
+{{< tdclose >}}
+{{< tdopen >}}
+Week 12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Written Work
 ------------
