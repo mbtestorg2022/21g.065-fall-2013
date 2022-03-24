@@ -173,7 +173,7 @@ Discuss Readings and Films
 {{< tdopen >}}
 
 
-Bolitho, Harold. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Myth of the Samurai." (PDF)](https://alexy.asian.lsa.umich.edu/courses/readings/Bolitho_Myth%20of%20the%20Samurai.pdf) 1984.
+Bolitho, Harold. ["The Myth of the Samurai." (PDF)](https://alexy.asian.lsa.umich.edu/courses/readings/Bolitho_Myth%20of%20the%20Samurai.pdf) 1984.
 
 Tsunetomo, Yamamoto. _Hagakure: The Book of the Samurai_. Shambhala, 2012. ISBN: 9781590309858.
 
